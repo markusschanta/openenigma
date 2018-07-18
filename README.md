@@ -10,7 +10,7 @@ It consistes of 4 16-Segment units, 5 LEDs, 26 Lamps setup as keyboard, 26 keybo
 
 To understand how to operate the S&T GeoTronics M4 Enigma, please refer to the following guide:
 
- - **[BJ Gleason - Open Engima for Dummies](docs/BJ Gleason - Open Engima for Dummies.jpg)**
+ - **[BJ Gleason - Open Engima for Dummies](docs/BJ%20Gleason%20-%20Open%20Engima%20for%20Dummies.jpg)**
 
 ## Release Notes
 
